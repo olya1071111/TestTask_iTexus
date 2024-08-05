@@ -1,0 +1,5 @@
+1	Sergey	Sidorov	serg@yandex.ru	[37544 7653821, 37529 6539015, 37544 6389057]	[manager, security]
+2	Mark	Erov	mark@gmail.com	[37544 8659067]	[user, employee]
+3	Mark	Sewin	mark@gmail.com	[37529 6549864]	[user, manager, employee]
+4	Lena	Sorter	rina@gmail.com	[37544 5910234]	[manager]
+5	Marina	Adler	rina@gmail.com	[37529 1274891]	[manager, agent, HR]
